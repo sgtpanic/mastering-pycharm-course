@@ -20,7 +20,7 @@ If you run `program.py`, you should see:
 
 We are going to explore what is happening when we iterate over `odd_fibs`. Set a breakpoint on this line:
 
-```python
+```pythofdsafdfn
 if o > 1000:
 ```
 
